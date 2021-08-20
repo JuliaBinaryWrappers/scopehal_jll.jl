@@ -1,0 +1,16 @@
+name = "scopehal_jll"
+uuid = "c69b092c-cabd-51ee-983a-b3d58f6c0ce7"
+version = "0.1.0+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+yaml_cpp_jll = "01fea8cc-7d33-533a-824e-56a766f4ffe8"
+ffts_jll = "84ad2fbc-dacc-5b40-99f5-8db9d02a0a8a"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
