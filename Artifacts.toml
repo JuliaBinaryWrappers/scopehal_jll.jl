@@ -1,152 +1,114 @@
 [[scopehal]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e512c924110590f035c0aed5c3268aeca7c1ef0f"
+git-tree-sha1 = "7272dc2c37aa76c29fbf29f5644d162f4b70bd78"
 libc = "glibc"
 os = "linux"
 
     [[scopehal.download]]
-    sha256 = "e1386c555643ef4c7f676e7bdc0da493eb2784aac527a6f1d2844862a599c84f"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "3b60c2922a20dc6f57c8fe8509b2544c9c3eb2dfd6261e4411f0f0eb82e39929"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
 [[scopehal]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a4b34026b7b6ae23f86d07109c45428b6c9073da"
+git-tree-sha1 = "deac959a1d14801cfd405826b3d84a723b962899"
 libc = "glibc"
 os = "linux"
 
     [[scopehal.download]]
-    sha256 = "d91ed35c58c5e8f338b43b10146fc7d09715bf179e4966faab80d52542e164be"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "a2056986be9336166b28500ff632e70748c2cec011cb42b84a84de48a585f1ae"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
 [[scopehal]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d50497bcb560806666ee51f696935ab75d861cd6"
-libc = "musl"
-os = "linux"
-
-    [[scopehal.download]]
-    sha256 = "3cdd5a55098907627b1c560135c5392fe2704bfc75a35307c03fb68eb90ba58e"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.i686-linux-musl-cxx03.tar.gz"
-[[scopehal]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "51803519d79922c77a883b67cd16913fec02b8ed"
-libc = "musl"
-os = "linux"
-
-    [[scopehal.download]]
-    sha256 = "47084919252de374bd14290f49cddb50b7e124ba0f7cf15d0bfc14798f43fe49"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.i686-linux-musl-cxx11.tar.gz"
-[[scopehal]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7689f6a7465f7a3012d493757a5b439ad5f4a0c8"
+git-tree-sha1 = "246784cb1338b3b1cacb953dbcd01dd931f980b3"
 os = "windows"
 
     [[scopehal.download]]
-    sha256 = "cbabc00642d9d0dadb736d1275dde99e21233e53e5b805a96d5c30774197bcf0"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "aa4d12e94f8334690a85422d463a89b8d76cd098796be0a11b59bfc8a2f613e9"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.i686-w64-mingw32-cxx03.tar.gz"
 [[scopehal]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3b04f3f8af344c1369b40796e99c16d186c3f7ed"
+git-tree-sha1 = "dcdec46d97964373f819f53d4125f01274d9728c"
 os = "windows"
 
     [[scopehal.download]]
-    sha256 = "18833445a376cb01cfc8fdec8be8962394ed9ce796a880999b1d20e512cc6b4b"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "dc82e8e3bfe4d3c30e4b821b4df1b3cd069865deda23e5d4d231a471e4adc3c2"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
 [[scopehal]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ff09ceb4ff6fa3a51e6a91362f7adabe9e0ab6ee"
-os = "macos"
-
-    [[scopehal.download]]
-    sha256 = "cef671c7c2cbe9057720e98c9ddcb699b547a6da2f949baa0399a21f07ca832e"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-apple-darwin-cxx03.tar.gz"
-[[scopehal]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6c76f58bdd9cc110c41a4b4a66e295bf4acb8c1f"
-os = "macos"
-
-    [[scopehal.download]]
-    sha256 = "bf5f0294de2e0cd98b5fcb1529faad25da91998325e5c49ece2030e8d603f01f"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-apple-darwin-cxx11.tar.gz"
-[[scopehal]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b0ee9b256c47b0cd0067647efd8beb7451447e57"
+git-tree-sha1 = "eca05d31c3d0cca2e4c74448595e45509fc70b71"
 libc = "glibc"
 os = "linux"
 
     [[scopehal.download]]
-    sha256 = "f313849532cf2c634a27a8cd4feaf21fca45a35f89a0528884a6582145ba3651"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "2ac3eaa9e3ae2405863f1e517a555db84476c331022489af8bffc26938813a1b"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[scopehal]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d928cd2cee6405a68d7070f0aa86826ea1812b6"
+git-tree-sha1 = "2a045c02ae8c1d8c7218c90b71dda690a21a0b1e"
 libc = "glibc"
 os = "linux"
 
     [[scopehal.download]]
-    sha256 = "1b5eca2b5c042b6b4b75ffd81b6ea52c0b02edbe46b6026e9f6356596b41d24a"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "177b34b5ffbb55be346b8a43610715ad0e1b9be80b4e1d9a3c77571d4fd0b851"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[scopehal]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5053882eee3bc28ca557b915b0226e48389ce727"
+git-tree-sha1 = "484e0e8fd9bc78c71aa68209628c8f8dcb2c4fe9"
 libc = "musl"
 os = "linux"
 
     [[scopehal.download]]
-    sha256 = "c3411a619ea3bfbd5a3b5d0c4e87575b096a064e1a61aa4ebd56b1aea90c21f7"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "8df06ee829d2d47b165dc8ba0d57ddb1f7f6c726c5a9d0f1be82eb017bf560bc"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
 [[scopehal]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cdea27329ee12576ebd9778f369de04f65167263"
+git-tree-sha1 = "733580ed8651be092addef05c9b4c8c018032f1d"
 libc = "musl"
 os = "linux"
 
     [[scopehal.download]]
-    sha256 = "a7b44133ab5a65ed9d8878e81b906a3e55c3c90512f2566f35a87bc55b533239"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "4e04e169dfcf850d4bf3574b2b4f7bf2c04b69a7f5a05a2a9ffb82c5981aedf0"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
 [[scopehal]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "426710fd03014fe2cbf6d1304ac7d87737fbf74f"
+git-tree-sha1 = "5e1dfe959e84e6a191b326452f7cef490e8dc6eb"
 os = "freebsd"
 
     [[scopehal.download]]
-    sha256 = "b60b29525ebe513c6472f00e4f40735564287db78024e0419f4078521ca9f0ae"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-unknown-freebsd-cxx03.tar.gz"
+    sha256 = "a47173f6bf5c814f31bba0ef4528c637807e5910c93026104a03506ec0042f9f"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.x86_64-unknown-freebsd-cxx03.tar.gz"
 [[scopehal]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e937e3670d78ba1379f11d747756615fdf4b0f0b"
+git-tree-sha1 = "91296e835744101f39957e5f0235966475f35a12"
 os = "freebsd"
 
     [[scopehal.download]]
-    sha256 = "6fde65ede6b09145b9e801233724a81507f96cb219f0ca506b805b486982ffa7"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-unknown-freebsd-cxx11.tar.gz"
+    sha256 = "435776a522eefb916a4a36bbc62be18e8dbe3482f469b9e601005fc6c5a9ed59"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.x86_64-unknown-freebsd-cxx11.tar.gz"
 [[scopehal]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c43e23904d272fef5002175834fc036e94af8515"
+git-tree-sha1 = "9fbda9fcca312861427e2b181e99f3d4348f64e2"
 os = "windows"
 
     [[scopehal.download]]
-    sha256 = "75c2082133c36c7a887e1e554ed4b38a46f9638d53bd90b681dc691e656c2d7c"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "3d01f24da3e2cadb8b435bf2d1d99074cb73992201ee696b67c8415d21242c71"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[scopehal]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6f4cee1ded1dab06e0865f516beaaff727dd69e1"
+git-tree-sha1 = "7dc253ce3b6b186fc2f65f4f231838ef0c6c2134"
 os = "windows"
 
     [[scopehal.download]]
-    sha256 = "cccf924f18f65e8e8c9927b263d5357286cf245f57622ae7071ffdaabfd710ce"
-    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+0/scopehal.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8e8741f8b2d6aee447806e74e3f819b79b73e7a01096c680d236fffd30a79855"
+    url = "https://github.com/JuliaBinaryWrappers/scopehal_jll.jl/releases/download/scopehal-v0.1.0+1/scopehal.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
